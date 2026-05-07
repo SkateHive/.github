@@ -5,3 +5,4 @@
 
 ![Image](https://ipfs.skatehive.app/ipfs/QmNugcpEyhxf2eu2UTu7nJh9fepyzPMtpsHiBquMYrpCVm)
 
+> Use/Clone the Skatehive Monorepo for a better agentic coding experience, the monorepo indexes all repos of skatehive core infrastructure.
